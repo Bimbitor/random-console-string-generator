@@ -7,10 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Javi Giraldo <javijohanro30@gmail.com>",
   "license": "MIT",
   "bin": {
     "random-console-string-generator": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bimbitor/random-console-string-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bimbitor/random-console-string-generator/issues"
+  },
+  "homepage": "https://github.com/Bimbitor/random-console-string-generator#readme"
 }
